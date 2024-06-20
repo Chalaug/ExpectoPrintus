@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+
+body {
+    zoom: 150%;
+    height: 100%;
+    font-family: math;
+    margin: 0;
+    padding: 0;
+    background: rgb(0,0,0);
+    background: linear-gradient(188deg, rgba(0,0,0,1) 0%, rgba(12,17,41,1) 29%, rgba(0,186,255,1) 100%);
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #000000;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.catalog-item {
+    color: #000000;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.patronus-image {
+    height: 200px
+    width:auto;
+}
