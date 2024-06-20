@@ -56,8 +56,8 @@ button:hover {
 }
 
 .catalog-container {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 15%;
+    margin-right: 15%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
@@ -127,8 +127,8 @@ img {
 }
 
 #quiz-container {
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 20%;
+    margin-right: 20%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
